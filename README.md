@@ -1,5 +1,5 @@
 # FixtermkittyterminalinHyprland
-lets you use kitty terminal to open nano files in kitty.
+lets you use kitty terminal to open nano files in kitty through another bash or non zsh system configuration via ssh.
 
 # Instructions
 
