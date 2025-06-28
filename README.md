@@ -21,4 +21,6 @@ sudo tic -x -o /usr/share/terminfo xterm-kitty.terminfo
 ``` sudo apt install kitty-terminfo ```   # Debian/Ubuntu
 ``` sudo pacman -S kitty-terminfo ```    # Arch
 
+or Option 2 havn't tried it but may work but will break kitty functionality.
+``` export TERM=xterm-256color ```
 
