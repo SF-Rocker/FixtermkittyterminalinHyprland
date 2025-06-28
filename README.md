@@ -15,3 +15,10 @@ tic -x xterm-kitty.terminfo
 sudo tic -x -o /usr/share/terminfo xterm-kitty.terminfo
 ```
 
+
+--------------------------------------------------------
+# For Ubuntu, Debian, ARCH, Manjaro, EndeavorOS, etc.
+``` sudo apt install kitty-terminfo ```   # Debian/Ubuntu
+``` sudo pacman -S kitty-terminfo ```    # Arch
+
+
